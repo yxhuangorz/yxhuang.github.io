@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>HYX的BLOG</title>
+  <title>黄义雄的博客</title>
   
-  
+  <subtitle>放码过来</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yxhuangorz.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://yxhuangorz.github.io/</id>
   
   <author>
-    <name>Yixiong Huang</name>
+    <name>黄义雄</name>
     
   </author>
   
